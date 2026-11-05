@@ -19,12 +19,11 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "이혜숙 · Web / UI Designer",
-    template: "%s — 이혜숙 Portfolio",
+    default: "이혜숙 · FASHION VISUAL STUDY",
+    template: "%s — FASHION VISUAL STUDY",
   },
 
-  description:
-    "정보를 이해하고 구조를 설계하며 화면을 만드는 Web / UI Designer 이혜숙의 포트폴리오입니다.",
+  description: "FASHION VISUAL STUDY",
 
   robots: {
     index: false,

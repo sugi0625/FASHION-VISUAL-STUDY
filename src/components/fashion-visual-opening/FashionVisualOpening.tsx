@@ -72,7 +72,7 @@ export function FashionVisualOpening() {
     >
       <div className={styles.inner}>
         <p ref={eyebrowRef} className={styles.eyebrow}>
-          FASHION VISUAL / 2026
+          01 / THE PIECE
         </p>
 
         <div className={styles.content}>

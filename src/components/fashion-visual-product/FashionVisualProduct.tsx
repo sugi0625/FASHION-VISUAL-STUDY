@@ -14,7 +14,7 @@ import styles from "./FashionVisualProduct.module.css";
 
 const points = [
   {
-    title: "PETER COLLAR",
+    title: "PETER PAN COLLAR",
     description: "부드러운 라운드 칼라",
   },
   {

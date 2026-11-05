@@ -15,7 +15,7 @@ import styles from "./FashionVisualDetails.module.css";
 const detailItems = [
   {
     number: "01",
-    title: "PETER COLLAR",
+    title: "PETER PAN COLLAR",
     src: "/media/fashion-visual/detail-collar.png",
     alt: "화이트 블라우스의 피터팬 칼라 디테일",
     width: 400,
@@ -135,16 +135,10 @@ export function FashionVisualDetails() {
             <div className={styles.personal}>
               <p>PERSONAL WORK</p>
               <span>
-                Base photography created
+                Base images generated with AI,
                 <br />
-                with generative AI.
+                retouched in Photoshop.
               </span>
-            </div>
-            <div className={styles.roles}>
-              <p>Visual Direction</p>
-              <p>AI Image Generation</p>
-              <p>Photoshop Retouch</p>
-              <p>Editorial Design</p>
             </div>
             <div className={styles.project}>
               <h3>SOFT PETER BLOUSE</h3>

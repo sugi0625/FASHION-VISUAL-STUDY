@@ -7,7 +7,7 @@
 .inner {
   width: min(calc(100vw - 240px), 1680px);
   margin: 0 auto;
-  padding: clamp(96px, 6.25vw, 120px) 0 112px;
+  padding: 80px 0 180px;
   box-sizing: border-box;
 }
 
@@ -133,7 +133,7 @@
   .inner {
     width: calc(100vw - 96px);
     min-height: auto;
-    padding: 96px 0;
+    padding: 80px 0 120px;
   }
 
   .content {
@@ -161,7 +161,7 @@
 @media (max-width: 767px) {
   .inner {
     width: calc(100vw - 48px);
-    padding: 80px 0 72px;
+    padding: 60px 0;
   }
 
   .eyebrow {

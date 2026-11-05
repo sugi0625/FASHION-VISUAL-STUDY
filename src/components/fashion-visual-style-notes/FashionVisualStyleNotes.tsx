@@ -15,7 +15,7 @@ import styles from "./FashionVisualStyleNotes.module.css";
 const styleItems = [
   {
     number: "01",
-    title: "PETER COLLAR",
+    title: "PETER PAN COLLAR",
     caption: "Soft & Feminine",
     src: "/media/fashion-visual/style-collar.png",
     alt: "화이트 피터팬 칼라 블라우스",

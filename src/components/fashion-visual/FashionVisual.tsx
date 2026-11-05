@@ -139,8 +139,8 @@ export function FashionVisual() {
             </div>
 
             <div className={styles.metaGroup}>
-              <dt>TARGET</dt>
-              <dd>SAKI</dd>
+              <dt>STYLEBOOK</dt>
+              <dd>Soft Peter Blouse</dd>
             </div>
 
             <div className={styles.metaGroup}>
@@ -169,6 +169,7 @@ export function FashionVisual() {
           </dl>
         </div>
 
+        {/* =========================
         <div ref={flowRef} className={styles.flow}>
           {flowItems.map((item, index) => (
             <div className={styles.flowItem} key={item}>
@@ -181,6 +182,7 @@ export function FashionVisual() {
             </div>
           ))}
         </div>
+        ========================= */}
       </div>
     </section>
   );
